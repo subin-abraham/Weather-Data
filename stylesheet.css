@@ -1,0 +1,24 @@
+body {
+    background-image: url(./images/forest-5375005.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+@media(max-width:500px){
+    body {  
+        background-image: url(./images/forest-5375005.jpg);
+        background-repeat: no-repeat;
+        background-size: auto;
+      
+    }
+    #secondPart{
+        margin-top: -200px;
+        margin-left: 130px;
+
+    }
+    #firstPart{
+        margin-left: 20px;
+    }
+
+
+
+}
